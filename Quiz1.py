@@ -1,3 +1,6 @@
+# Author: Your Name 
+# Date: 2025-04-02 
+# Description: This Python program is an animal quiz game, which asks animal - related questions and checks user answers.  
 # NUIST Quiz Game in Python
 def quiz():
    print("Welcome to the Animal Quiz!")
